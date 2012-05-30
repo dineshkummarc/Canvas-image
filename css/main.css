@@ -1,0 +1,21 @@
+body{background:#eee;font-family:Verdana, Helvetica, Arial, sans-serif;margin:0;padding:0}
+.example{background:#FFF;width:750px;font-size:80%;border:1px #000 solid;margin:20px auto;padding:15px;position:relative;-moz-border-radius: 3px;-webkit-border-radius: 3px}
+
+h3 {
+    text-align:center;
+}
+
+.column1 {
+    float:left;
+    padding-right: 10px;
+    text-align:right;
+    width:185px;
+}
+.column2 {
+    float:left;
+    width:550px;
+}
+
+input[type=button] {
+    margin:5px;
+}
